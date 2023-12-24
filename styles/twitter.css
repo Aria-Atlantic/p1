@@ -28,7 +28,7 @@ html {
     padding-bottom: 15px;
   }
   .twitter_img_form_container h3 {
-    font-size: 1.5rem;
+    font-size: 20px;
     padding-bottom: 30px;
   }
   .twitter_img_form_container a {
@@ -116,7 +116,7 @@ html {
     margin-bottom: 3rem;
   }
   .twitter_img_form_container .twitter_form_container .logo_mini img {
-    width: 100%;
+    width: 110px;
   }
   .twitter_img_form_container .twitter_form_container .sign_in_btn {
     margin-top: 10px;
@@ -171,7 +171,7 @@ html {
     height: 100vh;
   }
   .twitter_img_form_container h1 {
-    font-size: 4rem;
+    font-size: 35px;
   }
   .twitter_img_form_container .twitter_form_container {
     width: 50%;
