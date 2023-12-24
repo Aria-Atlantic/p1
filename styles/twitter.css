@@ -142,7 +142,7 @@ html {
     padding: 1rem 2rem;
     text-align: center;
     background-color: #000000;
-    position: relative;
+    position: fixed;
     bottom: 0;
     display: flex;
     gap: 0.5rem;
